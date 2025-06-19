@@ -1,0 +1,22 @@
+<resources>
+<!-- Base application theme. -->
+<style name="Theme.ft_hangouts" parent="Theme.AppCompat.Light.NoActionBar">
+    <!-- Customize your theme here. -->
+    <item name="colorPrimary">@color/colorPrimary</item>
+    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    <item name="colorAccent">@color/colorAccent</item>
+</style>
+    <style name="ToolbarThemeDark" parent="ThemeOverlay.AppCompat.ActionBar">
+        <item name="android:textColorPrimary">@color/custom_blue</item>
+        <item name="android:textColorSecondary">@color/custom_blue</item>
+        <item name="actionMenuTextColor">@color/custom_blue</item>
+        <item name="colorControlNormal">@color/custom_blue</item>
+    </style>
+
+    <style name="ToolbarThemeLight" parent="ThemeOverlay.AppCompat.ActionBar">
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="android:textColorSecondary">@android:color/white</item>
+        <item name="actionMenuTextColor">@android:color/white</item>
+        <item name="colorControlNormal">@android:color/white</item>
+    </style>
+</resources>

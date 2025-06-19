@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ft_hangouts</string>
+    <string name="no_contacts">Aucun contact</string>
+    <string name="add_contact">Ajouter un contact</string>
+    <string name="edit_contact">Modifier le contact</string>
+    <string name="name">Nom</string>
+    <string name="firstname">Prénom</string>
+    <string name="phone">Téléphone</string>
+    <string name="email">Email</string>
+    <string name="address">Adresse</string>
+    <string name="save">Enregistrer</string>
+    <string name="delete">Supprimer</string>
+    <string name="call">Appeler</string>
+    <string name="message">Messages</string>
+    <string name="choose_photo">Choisir une photo</string>
+    <string name="send">Envoyer</string>
+    <string name="no_messages">Pas de messages</string>
+    <string name="not_specified">Non renseigné</string>
+    <string name="background_time">Application en arrière-plan depuis: %1$s</string>
+    <string name="delete_confirmation">Êtes-vous sûr de vouloir supprimer ce contact ?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="contact_added">Contact ajouté</string>
+    <string name="contact_updated">Contact mis à jour</string>
+    <string name="contact_deleted">Contact supprimé</string>
+    <string name="error_adding_contact">Erreur lors de l\'ajout du contact</string>
+    <string name="error_updating_contact">Erreur lors de la mise à jour du contact</string>
+    <string name="error_deleting_contact">Erreur lors de la suppression</string>
+    <string name="required_fields">Le nom et le téléphone sont obligatoires</string>
+    <string name="call_permission_required">Permission d\'appel requise</string>
+    <string name="contact_not_found">Erreur: Contact non trouvé</string>
+    <string name="change_header_color">Changer la couleur d\'en-tête</string>
+    <string name="settings">Paramètres</string>
+    <string name="messages_with_contact">Messages: %1$s</string>
+    <string name="error_sending_message">Erreur lors de l\'envoi: %1$s</string>
+    <string name="contact_details">Détails du contact</string>
+</resources>
